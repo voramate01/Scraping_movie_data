@@ -65,16 +65,3 @@ for i in range(0,number):
                 f.writerow([Designer,Number_of_poster, MyPoster, Poster_name, Year])
            
 del f
-
-
-
-#
-###############Trial
-
-#Take the text in-between
-Poster='/2018/revival.html' 
-Poster[5:-4]+'jpg'
-
-Poster='/tv/bad_internet_ver11.html'
-
-Poster="/intl/uk/2019/downton_abbey_ver14.html"
